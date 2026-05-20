@@ -5,7 +5,23 @@
   "description": "Curated Fox & Hen guide to practical small-business automation stacks, tools, and workflow recipes.",
   "type": "module",
   "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
     "validate": "node scripts/validate-content.mjs",
-    "test": "npm run validate"
+    "typecheck": "tsc --noEmit",
+    "test": "NODE_OPTIONS=--no-deprecation vitest run && node scripts/validate-content.mjs"
+  },
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.1",
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3",
+    "typescript": "^5.9.3",
+    "vite": "^7.2.7",
+    "vitest": "^4.0.15"
   }
 }

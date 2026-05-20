@@ -12,6 +12,20 @@ This is intentionally narrower than a generic “awesome automation” list. Eve
 - [Fox & Hen showcase](https://www.foxandhenllc.com/showcase)
 - [Fox & Hen GitHub](https://github.com/foxandhenllc)
 
+## Static app workflow
+
+This repo now includes a free, browser-only React + Vite stack builder while keeping the docs-first resource list below. It uses local sample metadata only: no backend, auth, secrets, or external paid APIs.
+
+```bash
+npm install
+npm run dev
+npm run test
+npm run typecheck
+npm run build
+```
+
+Open the Vite local URL from `npm run dev` to search/filter resources, save a localStorage shortlist, copy the Markdown stack plan, or export the shortlist JSON.
+
 ## Lead capture
 
 - [Tally](https://tally.so) — simple forms with generous free tier and embeddable lead capture.
