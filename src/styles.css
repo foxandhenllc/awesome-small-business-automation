@@ -53,8 +53,10 @@ main {
   max-width: 780px;
   margin: 0;
   font-size: clamp(2.35rem, 5.8vw, 5.45rem);
-  letter-spacing: -0.045em;
+  letter-spacing: -0.025em;
+  word-spacing: 0.04em;
   line-height: 1.02;
+  overflow-wrap: anywhere;
 }
 
 .hero p {
@@ -387,6 +389,10 @@ ol {
   .shortlist-panel {
     border-radius: 24px;
     padding: 20px;
+  }
+
+  .hero h1 {
+    font-size: clamp(2.05rem, 11vw, 2.8rem);
   }
 
   .toolbar,
