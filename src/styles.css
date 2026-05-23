@@ -40,9 +40,9 @@ main {
 .hero {
   display: grid;
   grid-template-columns: minmax(0, 1fr) auto;
-  gap: 28px;
+  gap: clamp(18px, 3vw, 28px);
   align-items: end;
-  padding: 40px;
+  padding: clamp(24px, 4vw, 36px);
   border: 1px solid rgba(23, 33, 29, 0.08);
   border-radius: 34px;
   background: rgba(255, 255, 255, 0.78);
@@ -91,7 +91,7 @@ main {
 .workspace {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(340px, 420px);
-  gap: 24px;
+  gap: clamp(18px, 3vw, 24px);
   margin-top: 24px;
   align-items: start;
 }
