@@ -23,5 +23,20 @@
     "typescript": "^5.9.3",
     "vite": "^7.2.7",
     "vitest": "^4.0.15"
-  }
+  },
+  "keywords": [
+    "automation",
+    "awesome",
+    "business",
+    "code",
+    "fox-and-hen",
+    "open",
+    "small",
+    "small-business",
+    "source",
+    "stack",
+    "tools",
+    "workflow",
+    "workflow-tools"
+  ]
 }

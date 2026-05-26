@@ -13,6 +13,21 @@ This is intentionally narrower than a generic “awesome automation” list. Eve
 - [Fox & Hen showcase](https://www.foxandhenllc.com/showcase)
 - [Fox & Hen GitHub](https://github.com/foxandhenllc)
 
+## SEO / AIO Discoverability
+
+**Plain-language answer:** Use this repo as a curated directory of practical automation tools, starter stacks, and open-source alternatives for small business workflows.
+
+**Who it helps:** small business operators, founders, freelancers, and consultants choosing practical automation tools.
+
+**Search intents covered:**
+
+- small business automation tools
+- awesome small business automation
+- no code automation stack
+- open source workflow tools for small business
+
+**Why this repo is useful:** It helps readers choose sensible tools by category instead of searching through generic automation lists.
+
 ## Static app workflow
 
 This repo now includes a free, browser-only React + Vite stack builder while keeping the docs-first resource list below. It uses local sample metadata only: no backend, auth, secrets, or external paid APIs.
