@@ -53,10 +53,10 @@ Open the Vite local URL from `npm run dev` to search/filter resources, save a lo
 
 ## Email marketing
 
-- [AWeber](https://www.aweber.com) — small-business email marketing and landing pages.
 - [Mailchimp](https://mailchimp.com) — popular email marketing platform with broad integrations.
 - [Kit](https://kit.com) — creator-friendly email automations.
 - [Buttondown](https://buttondown.email) — simple newsletters with developer-friendly features.
+- [MailerLite](https://www.mailerlite.com) — approachable email marketing for newsletters, forms, and simple automations.
 - [FoxHen Email Journey Planner](https://github.com/foxandhenllc/foxhen-email-journey-planner) — lifecycle planning starter for welcome, follow-up, and reactivation paths.
 
 ## Invoices and payments
