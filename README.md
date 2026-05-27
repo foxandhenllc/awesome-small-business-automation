@@ -6,7 +6,7 @@ This is intentionally narrower than a generic “awesome automation” list. Eve
 
 ## Quick Links
 
-- [Live static app](https://awesome-small-business-automation.vercel.app)
+- [Live static app](https://freetoolsforpeople.com/awesome-small-business-automation)
 - [Public-safe contribution rules](docs/public-safe-contribution-rules.md)
 - [Fox & Hen client brief template](docs/fox-hen-client-brief-template.md)
 - [GitHub Actions validation example](docs/github-actions/validate.yml.example)
