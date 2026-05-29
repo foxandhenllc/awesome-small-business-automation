@@ -1,5 +1,7 @@
 # Awesome Small Business Automation
 
+[![Build](https://github.com/foxandhenllc/awesome-small-business-automation/actions/workflows/build.yml/badge.svg)](https://github.com/foxandhenllc/awesome-small-business-automation/actions/workflows/build.yml)
+
 A curated Fox & Hen field guide for practical tools, recipes, and starter stacks that help small businesses replace manual follow-up, scattered spreadsheets, and disconnected client workflows.
 
 This is intentionally narrower than a generic “awesome automation” list. Every item should help a freelancer, studio, local service business, nonprofit, or small team ship a useful workflow without pretending they need an enterprise platform on day one.
@@ -30,7 +32,7 @@ This is intentionally narrower than a generic “awesome automation” list. Eve
 
 ## Static app workflow
 
-This repo now includes a free, browser-only React + Vite stack builder while keeping the docs-first resource list below. It uses local sample metadata only: no backend, auth, secrets, or external paid APIs.
+This repo now includes a free, browser-only React + Vite stack builder while keeping the docs-first resource list below. It uses local sample metadata only: no backend, auth, credentials, or external paid APIs.
 
 ```bash
 npm install
@@ -184,6 +186,25 @@ Fox & Hen uses this repo as a public reference shelf. A real client engagement u
 
 See [docs/public-safe-contribution-rules.md](docs/public-safe-contribution-rules.md). Keep contributions useful, specific, and free of private data.
 
+## Validation
+
+```bash
+npm run typecheck --if-present
+npm run test --if-present
+npm run build --if-present
+```
+
+## Contributing
+
+See `CONTRIBUTING.md` for public-safe contribution rules, local validation commands, and good first contribution ideas. Roadmap items live in `ROADMAP.md`.
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+## Open Source Readiness
+
+- MIT licensed for reuse, remixing, and client-safe adaptation.
+- GitHub Actions build workflow runs install, typecheck, tests when present, and production build.
+- Contribution guide, roadmap, and issue templates are included for public collaboration.
+- Public-safe data policy keeps examples fictional and reviewable.
