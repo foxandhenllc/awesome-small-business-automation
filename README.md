@@ -11,7 +11,7 @@ This is intentionally narrower than a generic “awesome automation” list. Eve
 - [Live static app](https://freetoolsforpeople.com/awesome-small-business-automation)
 - [Public-safe contribution rules](docs/public-safe-contribution-rules.md)
 - [Fox & Hen client brief template](docs/fox-hen-client-brief-template.md)
-- [GitHub Actions validation example](docs/github-actions/validate.yml.example)
+- [GitHub Actions build workflow](.github/workflows/build.yml)
 - [Fox & Hen showcase](https://www.foxandhenllc.com/showcase)
 - [Fox & Hen GitHub](https://github.com/foxandhenllc)
 
