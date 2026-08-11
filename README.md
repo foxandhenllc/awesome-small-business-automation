@@ -51,6 +51,7 @@ Open the Vite local URL from `npm run dev` to search/filter resources, save a lo
 - [Google Forms](https://forms.google.com) — low-friction intake for teams already in Google Workspace.
 - [Formspree](https://formspree.io) — developer-friendly form backend for static sites.
 - [Netlify Forms](https://www.netlify.com/platform/core/forms/) — form capture for Netlify-hosted static sites.
+- [Workforce Wave](https://www.workforcewave.com) — AI voice receptionist that answers inbound calls after-hours, qualifies callers, and books appointments so small service businesses stop losing leads to voicemail.
 - [FoxHen Form To Dashboard](https://github.com/foxandhenllc/foxhen-form-to-dashboard) — forkable pattern for turning intake into queues and metrics.
 
 ## Booking
