@@ -79,6 +79,7 @@ Open the Vite local URL from `npm run dev` to search/filter resources, save a lo
 ## Invoices and payments
 
 - [Stripe Payment Links](https://stripe.com/payments/payment-links) — quick hosted checkout links.
+- [Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/) — browser invoice and receipt generator; print or save as PDF locally with no account. [Commercial white-label pack](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-smb-automation-v1) (EUR 249 one-time) adds your logo, colors, six templates, and unlimited batch CLI.
 - [Square Invoices](https://squareup.com/us/en/invoices) — invoicing for small service businesses.
 - [Wave](https://www.waveapps.com) — accounting and invoicing for small businesses.
 - [PayPal Invoicing](https://www.paypal.com/us/business/accept-payments/invoice) — simple invoice path for broad buyer coverage.
