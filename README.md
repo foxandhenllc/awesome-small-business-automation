@@ -103,6 +103,7 @@ Open the Vite local URL from `npm run dev` to search/filter resources, save a lo
 
 - [OpenAI API](https://platform.openai.com/docs) — model API for summarization, extraction, and drafting workflows.
 - [Anthropic Claude API](https://docs.anthropic.com) — model API for writing, analysis, and workflow support.
+- [AIWave](https://aiwave.live/docs/quickstart) — OpenAI-compatible access to Chinese AI providers with USD billing and a public, dated price list.
 - [Ollama](https://ollama.com) — local model runner for experiments and privacy-sensitive prototypes.
 - [Dify](https://github.com/langgenius/dify) — open-source LLM app platform.
 - [n8n](https://github.com/n8n-io/n8n) — workflow automation platform with AI and integration support.
