@@ -107,6 +107,7 @@ Open the Vite local URL from `npm run dev` to search/filter resources, save a lo
 - [Dify](https://github.com/langgenius/dify) — open-source LLM app platform.
 - [n8n](https://github.com/n8n-io/n8n) — workflow automation platform with AI and integration support.
 - [FoxHen AI Proposal Studio](https://github.com/foxandhenllc/foxhen-ai-proposal-studio) — public-safe scoping and proposal starter without live model calls.
+- [FlipWorth](https://flipworth.silentdirectivellc.com/?utm_source=awesome-small-business-automation&utm_medium=resource-directory) — Photo-based resale price research for secondhand sellers: snap an item and get an estimated resale range, a buy or pass verdict, a suggested list price and where to sell it. Free to try in the browser, also on iPhone.
 
 ## Local SEO
 
