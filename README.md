@@ -78,6 +78,8 @@ Open the Vite local URL from `npm run dev` to search/filter resources, save a lo
 
 ## Invoices and payments
 
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) — Free browser-only freelance billing and client-document tools: invoice, credit note, quote, rate calculator, and more; no signup.
+
 - [Stripe Payment Links](https://stripe.com/payments/payment-links) — quick hosted checkout links.
 - [Square Invoices](https://squareup.com/us/en/invoices) — invoicing for small service businesses.
 - [Wave](https://www.waveapps.com) — accounting and invoicing for small businesses.
