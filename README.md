@@ -148,6 +148,8 @@ Open the Vite local URL from `npm run dev` to search/filter resources, save a lo
 
 ## Open-source alternatives
 
+- [Orbit by Noveum](https://github.com/Noveum/orbit): Apache-2.0 issue and project tracking for people and AI agents. [Free hosted app](https://orbit.noveum.ai), with [remote MCP](https://orbit.noveum.ai/mcp) over Streamable HTTP and workspace-scoped OAuth. Self-hosting remains in preview.
+
 - [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) — broad self-hosted software directory.
 - [Twenty CRM](https://github.com/twentyhq/twenty) — open-source CRM.
 - [NocoDB](https://github.com/nocodb/nocodb) — open-source Airtable alternative.
