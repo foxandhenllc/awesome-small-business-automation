@@ -119,6 +119,7 @@ Open the Vite local URL from `npm run dev` to search/filter resources, save a lo
 ## Website QA
 
 - [Playwright](https://playwright.dev) — browser automation for screenshots and regression checks.
+- [Agent QA](https://vostride.com/docs/agent-qa) — YAML browser checks for website user flows, run through a CLI and local dashboard. Currently free under FSL-1.1-ALv2; configured model and browser services may charge separately.
 - [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) — page quality audits.
 - [axe DevTools](https://www.deque.com/axe/devtools/) — accessibility testing tools.
 - [WAVE](https://wave.webaim.org) — browser-based accessibility review.
