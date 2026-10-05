@@ -146,6 +146,11 @@ Open the Vite local URL from `npm run dev` to search/filter resources, save a lo
 - [Activepieces](https://www.activepieces.com) â€” open-source automation builder.
 - [Node-RED](https://nodered.org) â€” flow-based automation for technical teams.
 
+
+## Checklists and SOPs
+
+- [Ops Checklist Pack](https://masondaxton.github.io/ops-checklist-pack/) — free printable open/close, onboarding, weekly review, and incident-response checklists for small service teams (## Open-source alternatives, no signup).
+- [Field-service open/close use case](https://masondaxton.github.io/ops-checklist-pack/use-cases/field-service-daily-open-close.html) — short framing for HVAC/plumbing/mobile repair crews.
 ## Open-source alternatives
 
 - [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) â€” broad self-hosted software directory.
