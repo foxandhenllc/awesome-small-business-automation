@@ -66,6 +66,7 @@ Open the Vite local URL from `npm run dev` to search/filter resources, save a lo
 - [Pipedrive](https://www.pipedrive.com) — sales pipeline tool for teams that need follow-up discipline.
 - [Twenty](https://twenty.com) — open-source CRM option for teams evaluating self-hosted workflows.
 - [Baserow](https://baserow.io) — spreadsheet-database hybrid for lightweight internal tools.
+- [Genaya](https://genaya.com) — CRM, scheduling, estimates and invoicing in one place for local service businesses, with an AI phone receptionist.
 - [FoxHen Mini CRM Rescue](https://github.com/foxandhenllc/foxhen-mini-crm-rescue) — forkable cleanup pattern for messy lead lists.
 
 ## Email marketing
