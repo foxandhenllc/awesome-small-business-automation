@@ -59,6 +59,7 @@ Open the Vite local URL from `npm run dev` to search/filter resources, save a lo
 - [Calendly](https://calendly.com) — fast booking links for service teams.
 - [SavvyCal](https://savvycal.com) — thoughtful scheduling UX for consultants.
 - [Google Calendar Appointment Schedules](https://support.google.com/calendar/answer/10729749) — native booking for Google Calendar users.
+- [Clinic After-Hours FAQ Assistant (demo)](https://github.com/AHMEDFOUAAD/clinic-after-hours-faq-assistant) — free MIT static starter for a fictional clinic's routine FAQs and booking-link preview; opens locally with no account or API key. No runtime AI, live booking, message sending, or patient-data collection; adapt approved wording and links before use.
 
 ## CRM
 
