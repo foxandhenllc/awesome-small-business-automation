@@ -52,6 +52,7 @@ Open the Vite local URL from `npm run dev` to search/filter resources, save a lo
 - [Formspree](https://formspree.io) — developer-friendly form backend for static sites.
 - [Netlify Forms](https://www.netlify.com/platform/core/forms/) — form capture for Netlify-hosted static sites.
 - [FoxHen Form To Dashboard](https://github.com/foxandhenllc/foxhen-form-to-dashboard) — forkable pattern for turning intake into queues and metrics.
+- [AI Your Work lead follow-up demo](https://aiyourwork.chat/guides/lead-follow-up-for-service-companies#sample-enquiry) - Free browser exercise that assigns a fictional website enquiry, skips a duplicate on replay, and drafts a reply for staff review. No account is needed.
 
 ## Booking
 
